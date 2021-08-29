@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 10px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#slider{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+#slider .col-md-7 p{
+    color: gray;
+}
+.btn{
+    text-decoration: none;
+    color: coral;  
+}
+.more-but, button{
+    text-align: right;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
