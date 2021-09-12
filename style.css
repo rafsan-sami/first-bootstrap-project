@@ -33,3 +33,24 @@
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 }
+.card img{
+    padding: 60px;
+}
+.card h5{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+    color: gray;
+}
+.card h4{
+    text-align: center;
+    font-size: 35px;
+}
+.card a{
+    text-align: end;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: orange;
+    font-size: 17px;
+}
